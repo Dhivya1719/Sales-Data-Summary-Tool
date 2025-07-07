@@ -21,5 +21,10 @@ This tool reads a CSV of item-wise sales and produces:
 - GroupBy Aggregations
 - Period-based Monthly Summaries
 
-## 🔍 Output Example
-
+### 📌 Sample Output
+📊 Monthly Summary:
+     Month  Quantity  revenue
+0  2025-01        29      215
+1  2025-02        38      260
+2  2025-03        26      260
+3  2025-04        63      321
